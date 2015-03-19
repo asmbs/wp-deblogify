@@ -11,6 +11,10 @@
 
 namespace Deblogifier;
 
+// This plugin should only run in primary execution
+if (defined('DOING_AJAX') || defined('DOING_CRON') || defined('DOING_AUTOSAVE'))
+  return;
+
 // ---------------------------------------------------------------------------------------------
 
 // Remove admin menu links
