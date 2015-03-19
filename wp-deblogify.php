@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: Deblogifier
- * Version:     1.0.0-dev
+ * Version:     1.0.0
  * Description: Removes the admin UI for blog-centric WordPress components like posts and comments.
  * Plugin URI:  https://github.com/asmbs/wp-deblogify
  * Author:      The A-TEAM (ASMBS)
