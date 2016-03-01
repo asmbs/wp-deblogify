@@ -1,0 +1,13 @@
+{
+    "name": "asmbs/wp-unblog",
+    "description": "Remove the admin UI for blog-centric components like posts and comments.",
+    "type": "wordpress-plugin",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kyle Tucker",
+            "email": "kyleatucker@gmail.com"
+        }
+    ],
+    "require": {}
+}
