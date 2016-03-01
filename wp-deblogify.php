@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: The Unblog
- * Version:     1.0.1
+ * Version:     1.1.0
  * Description: Removes the admin UI for blog-centric WordPress components like posts and comments.
  * Plugin URI:  https://github.com/asmbs/wp-unblog
  * Author:      The A-TEAM
