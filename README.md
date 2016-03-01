@@ -1,7 +1,7 @@
-# Deblogifier
+# The Unblog
 
-Hides all the blog-centric components of the WordPress core:
+Hides blog-centric components of the WordPress core:
 
-- Gets rid of those obnoxious dashboard widgets
+- Removes most of the built-in dashboard widgets
 - Hides posts and comments from the admin menu
 - Hides them from the admin bar too
