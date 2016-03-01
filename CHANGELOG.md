@@ -1,15 +1,16 @@
-# Deblogifier
+# Changelog
 
-## Changelog
+## 1.1.0
+
+- Added composer support.
+- Renamed/renamespaced plugin.
+
+-----
 
 ### 1.0.1
 
--   Keep the plugin from loading in secondary AJAX/cron requests, where there is no UI to
-    manipulate
+- Prevented plugin from loading in secondary AJAX/cron requests, where there is no UI to manipulate.
 
-### 1.0
+### 1.0.0
 
-Initial release:
-
--   Hide posts and comments from the admin nav menu and the admin bar
--   Remove most dashboard widgets
+- Initial release.
